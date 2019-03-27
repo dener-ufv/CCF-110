@@ -1,0 +1,18 @@
+Objetivo: 
+-- Criar um programa que gere uma matriz NxM, de maneira que os numeros inseridos partam de 1 até o produto de N*M.
+
+-- Exemplo para uma matriz 3x4: 
+
+  1  2  3
+  10 11 4
+  9  12 5
+  8  7  6
+
+-- Exemplo para uma matriz 5x4:
+
+  1  2  3  4  5
+  14 15 16 17 6
+  13 20 19 18 7
+  12 11 10 9  8
+
+  
